@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Profile Information</string>
+    <string name="save">Save</string>
+    <string name="profile_information">Profile Information</string>
+    <string name="enter_your_first_name">Enter your First Name</string>
+    <string name="enter_your_last_name">Enter your Last Name</string>
+    <string name="enter_your_age">Enter your Age</string>
+    <string name="enter_your_e_mail">Enter your E-mail</string>
+    <string name="enter_your_username">Enter your Username</string>
+    <string name="clear">Clear</string>
+</resources>
